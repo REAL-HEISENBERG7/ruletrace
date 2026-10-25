@@ -29,8 +29,10 @@ jobs:
 
       - name: Run Pytest suite
         working-directory: ./backend
+        env:
+          PYTHONPATH: .
         run: |
-          pytest -v
+          python -m pytest -v
 
   frontend-check:
     name: Frontend Lint & Production Build

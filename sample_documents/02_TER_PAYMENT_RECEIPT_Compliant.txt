@@ -1,0 +1,18 @@
+ALL INDIA COUNCIL FOR TECHNICAL EDUCATION
+Nelson Mandela Marg, Vasant Kunj, New Delhi - 110070
+ONLINE FEE TRANSACTION ACKNOWLEDGEMENT (TER CHARGES)
+
+Transaction Reference No: AICTE-TER-2024-88492018
+Payment Gateway: Bharatkosh / SBI e-Pay
+Payment Date: 20/01/2024
+Name of Institution: Sunrise Institute of Technology (DEMO)
+AICTE Institution ID: DEMO-AICTE-2024-SIT-001
+Application Reference: EoA Self-Disclosure AY 2024-25
+Payment Head: Technical Education Regulatory (TER) Processing Fee
+Amount Paid: Rs. 2,00,000/- (Rupees Two Lakhs Only)
+Transaction Status: SUCCESS / RECONCILED
+Bank Ref / UTR No: SBIN004819208471
+
+Issue Date: 20/01/2024
+Valid Till: 31/12/2028
+Receipt Verified vide AICTE National Accounting System

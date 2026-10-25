@@ -1,0 +1,19 @@
+SURVEY OF INDIA / MAHARASHTRA REMOTE SENSING APPLICATION CENTRE
+CADASTRAL SURVEY & SATELLITE GEO-TAGGING REPORT
+
+Survey Reference: MRSAC/GEO-MAP/2024/4819
+Name of Institution: Sunrise Institute of Technology (DEMO)
+Campus Location: Survey No. 45, Baner Road, Pune - 411045
+Geographic Coordinates (GPS Boundary):
+- Point A (North-West): 18.5592 deg N, 73.7891 deg E
+- Point B (North-East): 18.5594 deg N, 73.7915 deg E
+- Point C (South-East): 18.5571 deg N, 73.7914 deg E
+- Point D (South-West): 18.5570 deg N, 73.7889 deg E
+
+Total Contiguous Land Parcel Area: 10.5 Acres (42,492 Sqm)
+Satellite Imagery Resolution: 0.5m Cartosat-2 Series Verified
+Zoning Classification: Public / Semi-Public Educational Institutional Zone
+
+Issue Date: 05/01/2024
+Valid Till: 31/12/2028
+Authority: Chief Geomatics Officer & Director of Town Planning, Pune Region

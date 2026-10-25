@@ -1,0 +1,39 @@
+# RuleTrace AI — Backend Dependencies
+# Smart India Hackathon 2026 | Team UNCUT GEMS | SIH26261
+# Problem Statement: AI-Powered Application Validation, Document Authentication and Regulatory Compliance Verification
+
+# Web Framework & ASGI Server
+fastapi==0.115.0
+uvicorn[standard]==0.54.0
+python-multipart==0.0.32
+
+# Database & ORM
+sqlalchemy==2.0.52
+alembic==1.20.1
+aiosqlite==0.22.1
+psycopg2-binary==2.9.12
+
+# Data Validation & Settings Management
+pydantic==2.8.2
+pydantic-settings==2.15.0
+email-validator>=2.0.0
+python-dotenv==1.2.3
+
+# Authentication & Security
+python-jose[cryptography]==3.5.0
+passlib[bcrypt]==1.7.4
+bcrypt==5.0.0
+
+# Document Processing, PDF Parsing & OCR
+pymupdf==1.28.2
+pillow==12.1.1
+pytesseract==0.3.13
+PyPDF2==3.0.1
+
+# Analytical & Verification Utilities
+numpy>=1.26.0
+scikit-learn>=1.5.0
+
+# Testing & HTTP Client
+pytest==9.1.1
+httpx==0.28.1

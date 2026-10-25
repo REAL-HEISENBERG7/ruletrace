@@ -420,7 +420,7 @@ RuleTrace AI encodes statutory requirements directly from the official **AICTE A
 
 ## 👥 Team UNCUT GEMS
 
-Developed with ❤️ for **Smart India Hackathon 2026** by **Team UNCUT GEMS**:
+Developed for **Smart India Hackathon 2026** by **Team UNCUT GEMS**:
 
 | Team Member | Domain / Focus Area |
 | ----------- | ------------------- |
